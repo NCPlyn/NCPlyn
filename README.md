@@ -1,16 +1,32 @@
-### Hi there 👋
+###### I'm don't like much doing these but here we go
+:school: I'm student of IT high school, more focused on networking and stuff that goes with it.
 
-<!--
-**NCPlyn/NCPlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>:pushpin: <b>Programing languages I know and can do stuff with so far:</b></summary>
+  
+  <!--START_SECTION-->
+  - Python - [NCPlyn/ArDash](https://github.com/NCPlyn/ArDash) , [NCPlyn/follow_face_python_arduino](https://github.com/NCPlyn/follow_face_python_arduino)
+  - JS,JQuery,NodeJS,HTML,PHP - [NCPlyn/Lidl4chan](https://github.com/NCPlyn/Lidl4chan) , [moravec-servis.eu](http://www.moravec-servis.eu/) , Online RadioStation
+  - C,C#,*C++*,VB.Net - [NCPlyn/PortalSelect](https://github.com/NCPlyn/PortalSelect) , [NCPlyn/AirsoftBomb](https://github.com/NCPlyn/AirsoftBomb) , 20+ small or big applications
+  - That should be it from what I remember...
+  <!--END_SECTION-->
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>:pushpin: <b>From hardware side of view:</b></summary>
+  
+  <!--START_SECTION-->
+  - A lot of DIY stuff, hardware is my hobby. Arduinos, ESPs...
+  - SimHub tachometer, ESP controlled water pump for village...
+  - Reparing gaming steering wheels, TVs, PCs & notebooks, power supplies etc...
+  - And holymoly more with soldering and building stuff since I was 6yo.
+  <!--END_SECTION-->
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:desktop_computer: Also configuring servers.. From HP/DELL machines, trough Proxmox/ESXi virtualization, to invidual application servers.
+
+:sparkler: Modding software and hardware is fun too. https://repair.eu/
+
+:books: I learn new stuff on the go. Basically when I want to do something that needs it.
+
+:question: You can see some of my random stuff on my YT, there's also my PC specs in the info page.
