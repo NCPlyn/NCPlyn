@@ -1,4 +1,4 @@
-###### I'm don't like much doing these but here we go
+###### I don't like doing these but here we go
 :school: I'm student of IT high school, more focused on networking and stuff that goes with it.
 
 <details>
@@ -8,7 +8,7 @@
   - Python - [NCPlyn/ArDash](https://github.com/NCPlyn/ArDash) , [NCPlyn/follow_face_python_arduino](https://github.com/NCPlyn/follow_face_python_arduino)
   - JS,JQuery,NodeJS,HTML,PHP - [NCPlyn/Lidl4chan](https://github.com/NCPlyn/Lidl4chan) , [moravec-servis.eu](http://www.moravec-servis.eu/) , Online RadioStation
   - C,C#,*C++*,VB.Net - [NCPlyn/PortalSelect](https://github.com/NCPlyn/PortalSelect) , [NCPlyn/AirsoftBomb](https://github.com/NCPlyn/AirsoftBomb) , 20+ small or big applications
-  - That should be it from what I remember...
+  - That should be it from what I remember with some examples...
   <!--END_SECTION-->
 </details>
 
@@ -19,7 +19,7 @@
   - A lot of DIY stuff, hardware is my hobby. Arduinos, ESPs...
   - SimHub tachometer, ESP controlled water pump for village...
   - Reparing gaming steering wheels, TVs, PCs & notebooks, power supplies etc...
-  - And holymoly more with soldering and building stuff since I was 6yo.
+  - And a lot more with soldering and building stuff since I was 6yo.
   <!--END_SECTION-->
 </details>
 
