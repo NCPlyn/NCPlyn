@@ -6,8 +6,9 @@
   
   <!--START_SECTION-->
   - Python - [NCPlyn/ArDash](https://github.com/NCPlyn/ArDash) , [NCPlyn/follow_face_python_arduino](https://github.com/NCPlyn/follow_face_python_arduino)
-  - JS,JQuery,NodeJS,HTML,PHP - [NCPlyn/Lidl4chan](https://github.com/NCPlyn/Lidl4chan) , [moravec-servis.eu](http://www.moravec-servis.eu/) , Online RadioStation
+  - JS,JQuery,NodeJS,HTML,PHP - [NCPlyn/Lidl4chan](https://github.com/NCPlyn/Lidl4chan) , [moravec-servis.eu](http://www.moravec-servis.eu/) , [Online RadioStation](https://github.com/NCPlyn/shoutcast_web)
   - C,C#,*C++*,VB.Net - [NCPlyn/PortalSelect](https://github.com/NCPlyn/PortalSelect) , [NCPlyn/AirsoftBomb](https://github.com/NCPlyn/AirsoftBomb) , 20+ small or big applications
+  - Java - Little bit of Android Studio and Minecraft server plugins :D
   - That should be it from what I remember with some examples...
   <!--END_SECTION-->
 </details>
