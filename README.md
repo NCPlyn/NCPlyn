@@ -7,8 +7,8 @@
   <!--START_SECTION-->
   - Python - [NCPlyn/ArDash](https://github.com/NCPlyn/ArDash) , [NCPlyn/follow_face_python_arduino](https://github.com/NCPlyn/follow_face_python_arduino)
   - JS,JQuery,NodeJS,HTML,PHP - [NCPlyn/Lidl4chan](https://github.com/NCPlyn/Lidl4chan) , [moravec-servis.eu](http://www.moravec-servis.eu/) , [Online RadioStation](https://github.com/NCPlyn/shoutcast_web)
-  - C,C#,*C++*,VB.Net - [NCPlyn/PortalSelect](https://github.com/NCPlyn/PortalSelect) , [NCPlyn/AirsoftBomb](https://github.com/NCPlyn/AirsoftBomb) , 20+ small or big applications
-  - Java - Little bit of Android Studio and Minecraft server plugins :D
+  - C,C#,*C++*,VB.Net - [NCPlyn/ProtogenHelmet-ESP32](https://github.com/NCPlyn/ProtogenHelmet-ESP32) , [NCPlyn/PortalSelect](https://github.com/NCPlyn/PortalSelect) , [NCPlyn/AirsoftBomb](https://github.com/NCPlyn/AirsoftBomb) , NTP/ESP controlled water circulator and much more...
+  - Java - Little bit of Android Studio ([NCPlyn/CFC](https://github.com/NCPlyn/CFC)) and Minecraft server plugins :D
   - That should be it from what I remember with some examples...
   <!--END_SECTION-->
 </details>
@@ -18,7 +18,7 @@
   
   <!--START_SECTION-->
   - A lot of DIY stuff, hardware is my hobby. Arduinos, ESPs...
-  - SimHub tachometer, ESP controlled water pump for village...
+  - SimHub tachometer, high power LED lights with custom battery packs...
   - Reparing gaming steering wheels, TVs, PCs & notebooks, power supplies etc...
   - And a lot more with soldering and building stuff since I was 6yo.
   <!--END_SECTION-->
