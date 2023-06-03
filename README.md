@@ -1,13 +1,13 @@
 ###### I don't like doing these but here we go
-:school: I'm student of IT high school, more focused on networking and stuff that goes with it.
+:school: I'm a graduate student of IT high school, programming, networking, servers & more.
 
 <details>
   <summary>:pushpin: <b>Programing languages I know and can do stuff with so far:</b></summary>
   
   <!--START_SECTION-->
-  - Python - [NCPlyn/ArDash](https://github.com/NCPlyn/ArDash) , [NCPlyn/follow_face_python_arduino](https://github.com/NCPlyn/follow_face_python_arduino)
-  - JS,JQuery,NodeJS,HTML,PHP - [NCPlyn/Lidl4chan](https://github.com/NCPlyn/Lidl4chan) , [moravec-servis.eu](http://www.moravec-servis.eu/) , [Online RadioStation](https://github.com/NCPlyn/shoutcast_web)
-  - C,C#,*C++*,VB.Net - [NCPlyn/ProtogenHelmet-ESP32](https://github.com/NCPlyn/ProtogenHelmet-ESP32) , [NCPlyn/PortalSelect](https://github.com/NCPlyn/PortalSelect) , [NCPlyn/AirsoftBomb](https://github.com/NCPlyn/AirsoftBomb) , NTP/ESP controlled water circulator and much more...
+  - Python - [NCPlyn/ArDash](https://github.com/NCPlyn/ArDash), [NCPlyn/follow_face_python_arduino](https://github.com/NCPlyn/follow_face_python_arduino)
+  - JS,JQuery,NodeJS,HTML,PHP - [NCPlyn/Lidl4chan](https://github.com/NCPlyn/Lidl4chan) , [moravec-servis.eu](http://www.moravec-servis.eu/) , [Online RadioStation](https://github.com/NCPlyn/shoutcast_web)...
+  - C,C#,*C++*,VB.Net - [NCPlyn/ProtogenHelmet-ESP32](https://github.com/NCPlyn/ProtogenHelmet-ESP32) , [NCPlyn/PortalSelect](https://github.com/NCPlyn/PortalSelect) , [NCPlyn/CarStatsTracker](https://github.com/NCPlyn/CarStatsTracker)...
   - Java - Little bit of Android Studio ([NCPlyn/CFC](https://github.com/NCPlyn/CFC)) and Minecraft server plugins :D
   - That should be it from what I remember with some examples...
   <!--END_SECTION-->
@@ -18,7 +18,7 @@
   
   <!--START_SECTION-->
   - A lot of DIY stuff, hardware is my hobby. Arduinos, ESPs...
-  - SimHub tachometer, high power LED lights with custom battery packs...
+  - Emulating E46 cluster messages, SimHub tachometer, high power LED lights with custom battery packs...
   - Reparing gaming steering wheels, TVs, PCs & notebooks, power supplies etc...
   - And a lot more with soldering and building stuff since I was 6yo.
   <!--END_SECTION-->
@@ -29,5 +29,3 @@
 :sparkler: Modding software and hardware is fun too. https://repair.eu/
 
 :books: I learn new stuff on the go. Basically when I want to do something that needs it.
-
-:question: You can see some of my random stuff on my YT, there's also my PC specs in the info page.
